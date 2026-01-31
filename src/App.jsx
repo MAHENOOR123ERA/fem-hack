@@ -8,7 +8,6 @@ import Dashboard from './components/dashboard';
 import EditResume from './pages/EditResume';
 import ViewResume from './pages/viewResume';
 import Home from './pages/Home';
-import ResumeCard from './components/resume/ResumeCard';
 
 
 function App() {
